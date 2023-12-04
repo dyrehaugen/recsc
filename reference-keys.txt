@@ -35,6 +35,7 @@ monetary
 currency
 the-big-inundation
 left-government-china-ride
+nuclear
 denmark
 nitrogen-pollution
 ecuador
@@ -92,6 +93,7 @@ bidenomics
 americas-decline
 dollar-hegemony
 inequality-1
+nuclear-1
 about
 links
 news
