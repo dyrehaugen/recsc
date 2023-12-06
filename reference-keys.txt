@@ -9,6 +9,7 @@ africa
 african-corridors---global-gateways
 eu-global-gateways
 africas-debt
+mining
 latin-america-and-the-caribbean
 the-middle-east
 south-east-asia
@@ -36,6 +37,7 @@ currency
 the-big-inundation
 left-government-china-ride
 nuclear
+congo
 denmark
 nitrogen-pollution
 ecuador
@@ -79,6 +81,7 @@ debt-trap-and-vulture-funds
 tanzania
 turkey
 uganda
+mining-1
 uk
 housing-2
 investment
