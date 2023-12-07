@@ -11,6 +11,7 @@ eu-global-gateways
 africas-debt
 mining
 latin-america-and-the-caribbean
+industrialization-and-fascism
 the-middle-east
 south-east-asia
 eu-european-union
@@ -49,6 +50,7 @@ ghana
 honduras
 hungary
 india
+industrialization
 indonesia
 iran
 ireland
@@ -97,6 +99,9 @@ americas-decline
 dollar-hegemony
 inequality-1
 nuclear-1
+business-cycle
+venezuela
+essequibo-conflict
 about
 links
 news
