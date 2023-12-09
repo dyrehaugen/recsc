@@ -10,6 +10,7 @@ african-corridors---global-gateways
 eu-global-gateways
 africas-debt
 mining
+europe
 latin-america-and-the-caribbean
 industrialization-and-fascism
 the-middle-east
@@ -52,6 +53,7 @@ hungary
 india
 industrialization
 indonesia
+jakarta-sinking
 iran
 ireland
 israel
@@ -88,6 +90,7 @@ uk
 housing-2
 investment
 crowding-out---crowding-in
+foreign-owvership---weal-performance
 ukraine
 peace-deal
 usa
@@ -108,3 +111,4 @@ links
 news
 market-based-development-finance-in-crisis
 carney-calls-for-stronger-government-regulation
+sitelog
