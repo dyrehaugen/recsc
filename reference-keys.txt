@@ -11,6 +11,7 @@ eu-global-gateways
 africas-debt
 mining
 europe
+innovation
 latin-america-and-the-caribbean
 industrialization-and-fascism
 the-middle-east
@@ -69,6 +70,8 @@ military
 the-netherlands
 north-korea
 norway
+ocean-mining
+wealth-fund
 oil-and-gas
 oil-exit-strategy
 emissions
