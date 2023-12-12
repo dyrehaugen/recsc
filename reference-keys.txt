@@ -39,6 +39,7 @@ monetary
 currency
 the-big-inundation
 left-government-china-ride
+electricity
 nuclear
 congo
 denmark
@@ -62,6 +63,8 @@ gaza
 italy
 jamaica
 japan
+kenya
+nairobi-water-works
 liberia
 mauritsius
 io-top-level-domene
@@ -78,6 +81,7 @@ emissions
 peru
 portugal
 russia
+a-modern-imperial-system
 saudi-arabia
 scotland
 singapore
