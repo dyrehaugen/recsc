@@ -103,6 +103,7 @@ peace-deal
 usa
 turchin-model-of-decay
 military-1
+the-wests-military-is-weak
 trade
 bidenomics
 americas-decline
