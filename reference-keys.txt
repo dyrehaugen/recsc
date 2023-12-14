@@ -23,6 +23,7 @@ dollarization
 bahrain
 burkina-faso
 china
+china-as-supplier-of-intermediate-goods
 in-transition---neither-socialist-nor-capitalist
 china-zigzagging
 housing
@@ -48,6 +49,7 @@ ecuador
 egypt
 ethiopia
 landlocked
+fiji
 germany
 ghana
 honduras
