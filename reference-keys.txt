@@ -80,6 +80,8 @@ wealth-fund
 oil-and-gas
 oil-exit-strategy
 emissions
+panama
+draught-canal
 peru
 portugal
 russia
