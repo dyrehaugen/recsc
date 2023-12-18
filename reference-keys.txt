@@ -51,6 +51,7 @@ ethiopia
 landlocked
 fiji
 germany
+german-christmas
 ghana
 honduras
 hungary
@@ -93,6 +94,7 @@ housing-1
 south-africa
 sri-lanka
 debt-trap-and-vulture-funds
+taiwan
 tanzania
 turkey
 uganda
