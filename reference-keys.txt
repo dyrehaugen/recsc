@@ -6,6 +6,8 @@ ocean-economics
 world-military
 nuclear-arms-race
 africa
+emerging-political-economy-of-energy-and-climate-change
+two-decade-slump
 african-corridors---global-gateways
 eu-global-gateways
 africas-debt
@@ -75,6 +77,7 @@ myanmar
 military
 myanmars-polycrisis
 the-netherlands
+nigeria
 north-korea
 norway
 ocean-mining
@@ -100,6 +103,8 @@ debt-trap-and-vulture-funds
 taiwan
 tanzania
 turkey
+uae--united-arab-emirates
+uae-in-africa
 uganda
 mining-1
 uk
@@ -122,6 +127,7 @@ nuclear-1
 business-cycle
 ira-ev-tax-credit---parts-sourcing-rules
 clean-hydrogen-tax-credit
+us-domestic-migration
 venezuela
 essequibo-conflict
 about
