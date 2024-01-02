@@ -12,6 +12,7 @@ african-corridors---global-gateways
 eu-global-gateways
 africas-debt
 mining
+public-finance-management
 europe
 innovation
 latin-america-and-the-caribbean
@@ -102,6 +103,8 @@ sri-lanka
 debt-trap-and-vulture-funds
 taiwan
 tanzania
+post-independence-failure
+outook
 turkey
 uae--united-arab-emirates
 uae-in-africa
