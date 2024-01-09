@@ -14,6 +14,7 @@ africas-debt
 mining
 public-finance-management
 demographics
+legacy-of-fractured-colonial-pasts
 europe
 innovation
 latin-america-and-the-caribbean
@@ -100,9 +101,11 @@ saudi-arabia
 scotland
 singapore
 housing-1
+somaliland
 south-africa
 spain
 donaña
+minerals
 sri-lanka
 debt-trap-and-vulture-funds
 taiwan
